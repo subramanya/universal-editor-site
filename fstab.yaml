@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p173405-e1854970.adobeaemcloud.com//bin/franklin.delivery/subramanya/universal-editor-site/main"
+    url: "https://author-p173405-e1854970.adobeaemcloud.com/bin/franklin.delivery/subramanya/universal-editor-site/main"
     type: "markup"
     suffix: ".html"
